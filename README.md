@@ -1,6 +1,4 @@
 <p align="center">Hi there, I'm Chris! 👋<p>
-<p align="center">Congrats on being visitor number:</p>
-<div align="center"><img src="https://profile-counter.glitch.me/RPINerd/count.svg"/></div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
