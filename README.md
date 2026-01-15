@@ -45,12 +45,3 @@
         <img src="img/vscode-original.svg" alt="vscode" width="40" height="40"/>
     </a>
 </p>
-
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RPINerd&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="RPINerd" />
-</p>
-
-<p>
-    &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RPINerd&show_icons=true&theme=dark&locale=en" alt="RPINerd" />
-</p>
